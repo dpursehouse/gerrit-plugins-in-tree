@@ -1,0 +1,123 @@
+[submodule "audit-sl4j"]
+	path = audit-sl4j
+	url = https://gerrit-review.googlesource.com/plugins/audit-sl4j
+[submodule "automerger"]
+	path = automerger
+	url = https://gerrit-review.googlesource.com/plugins/automerger
+[submodule "avatars-external"]
+	path = avatars-external
+	url = https://gerrit-review.googlesource.com/plugins/avatars-external
+[submodule "avatars-gravatar"]
+	path = avatars-gravatar
+	url = https://gerrit-review.googlesource.com/plugins/avatars-gravatar
+[submodule "branch-network"]
+	path = branch-network
+	url = https://gerrit-review.googlesource.com/plugins/branch-network
+[submodule "examples"]
+	path = examples
+	url = https://gerrit-review.googlesource.com/plugins/examples
+[submodule "find-owners"]
+	path = find-owners
+	url = https://gerrit-review.googlesource.com/plugins/find-owners
+[submodule "gerrit-support"]
+	path = gerrit-support
+	url = https://gerrit-review.googlesource.com/plugins/gerrit-support
+[submodule "gitblit"]
+	path = gitblit
+	url = https://gerrit-review.googlesource.com/plugins/gitblit
+[submodule "github"]
+	path = github
+	url = https://gerrit-review.googlesource.com/plugins/github
+[submodule "groovy-provider"]
+	path = groovy-provider
+	url = https://gerrit-review.googlesource.com/plugins/scripting/groovy-provider
+[submodule "imagare"]
+	path = imagare
+	url = https://gerrit-review.googlesource.com/plugins/imagare
+[submodule "its-base"]
+	path = its-base
+	url = https://gerrit-review.googlesource.com/plugins/its-base
+[submodule "its-bugzilla"]
+	path = its-bugzilla
+	url = https://gerrit-review.googlesource.com/plugins/its-bugzilla
+[submodule "its-jira"]
+	path = its-jira
+	url = https://gerrit-review.googlesource.com/plugins/its-jira
+[submodule "its-rtc"]
+	path = its-rtc
+	url = https://gerrit-review.googlesource.com/plugins/its-rtc
+[submodule "its-storyboard"]
+	path = its-storyboard
+	url = https://gerrit-review.googlesource.com/plugins/its-storyboard
+[submodule "labelui"]
+	path = labelui
+	url = https://gerrit-review.googlesource.com/plugins/labelui
+[submodule "login-redirect"]
+	path = login-redirect
+	url = https://gerrit-review.googlesource.com/plugins/login-redirect
+[submodule "metrics-reporter-cloudwatch"]
+	path = metrics-reporter-cloudwatch
+	url = https://gerrit-review.googlesource.com/plugins/metrics-reporter-cloudwatch
+[submodule "metrics-reporter-elasticsearch"]
+	path = metrics-reporter-elasticsearch
+	url = https://gerrit-review.googlesource.com/plugins/metrics-reporter-elasticsearch
+[submodule "metrics-reporter-graphite"]
+	path = metrics-reporter-graphite
+	url = https://gerrit-review.googlesource.com/plugins/metrics-reporter-graphite
+[submodule "metrics-reporter-jmx"]
+	path = metrics-reporter-jmx
+	url = https://gerrit-review.googlesource.com/plugins/metrics-reporter-jmx
+[submodule "metrics-reporter-prometheus"]
+	path = metrics-reporter-prometheus
+	url = https://gerrit-review.googlesource.com/plugins/metrics-reporter-prometheus
+[submodule "motd"]
+	path = motd
+	url = https://gerrit-review.googlesource.com/plugins/motd
+[submodule "multi-site"]
+	path = multi-site
+	url = https://gerrit-review.googlesource.com/plugins/multi-site
+[submodule "oauth"]
+	path = oauth
+	url = https://gerrit-review.googlesource.com/plugins/oauth
+[submodule "owners"]
+	path = owners
+	url = https://gerrit-review.googlesource.com/plugins/owners
+[submodule "project-download-commands"]
+	path = project-download-commands
+	url = https://gerrit-review.googlesource.com/plugins/project-download-commands
+[submodule "rabbitmq"]
+	path = rabbitmq
+	url = https://gerrit-review.googlesource.com/plugins/rabbitmq
+[submodule "ref-protection"]
+	path = ref-protection
+	url = https://gerrit-review.googlesource.com/plugins/ref-protection
+[submodule "reviewers-by-blame"]
+	path = reviewers-by-blame
+	url = https://gerrit-review.googlesource.com/plugins/reviewers-by-blame
+[submodule "saml"]
+	path = saml
+	url = https://gerrit-review.googlesource.com/plugins/saml
+[submodule "scala-provider"]
+	path = scala-provider
+	url = https://gerrit-review.googlesource.com/plugins/scripting/scala-provider
+[submodule "scripts"]
+	path = scripts
+	url = https://gerrit-review.googlesource.com/plugins/scripts
+[submodule "supermanifest"]
+	path = supermanifest
+	url = https://gerrit-review.googlesource.com/plugins/supermanifest
+[submodule "websession-flatfile"]
+	path = websession-flatfile
+	url = https://gerrit-review.googlesource.com/plugins/websession-flatfile
+[submodule "x-docs"]
+	path = x-docs
+	url = https://gerrit-review.googlesource.com/plugins/x-docs
+[submodule "zuul"]
+	path = zuul
+	url = https://gerrit-review.googlesource.com/plugins/zuul
+[submodule "checks"]
+	path = checks
+	url = https://gerrit-review.googlesource.com/plugins/checks
+[submodule "autosubmitter"]
+	path = autosubmitter
+	url = https://gerrit-review.googlesource.com/plugins/autosubmitter
