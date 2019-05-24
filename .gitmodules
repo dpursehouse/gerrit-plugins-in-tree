@@ -121,3 +121,12 @@
 [submodule "autosubmitter"]
 	path = autosubmitter
 	url = https://gerrit-review.googlesource.com/plugins/autosubmitter
+[submodule "hide-actions"]
+	path = hide-actions
+	url = https://gerrit-review.googlesource.com/plugins/hide-actions
+[submodule "image-diff"]
+	path = image-diff
+	url = https://gerrit-review.googlesource.com/plugins/image-diff
+[submodule "simple-submit-rules"]
+	path = simple-submit-rules
+	url = https://gerrit-review.googlesource.com/plugins/simple-submit-rules
