@@ -130,3 +130,30 @@
 [submodule "simple-submit-rules"]
 	path = simple-submit-rules
 	url = https://gerrit-review.googlesource.com/plugins/simple-submit-rules
+[submodule "binary-size"]
+	path = binary-size
+	url = https://chromium.googlesource.com/infra/gerrit-plugins/binary-size
+[submodule "buildbucket"]
+	path = buildbucket
+	url = https://chromium.googlesource.com/infra/gerrit-plugins/buildbucket
+[submodule "chromium-behavior"]
+	path = chromium-behavior
+	url = https://chromium.googlesource.com/infra/gerrit-plugins/chromium-behavior
+[submodule "code-coverage"]
+	path = code-coverage
+	url = https://chromium.googlesource.com/infra/gerrit-plugins/code-coverage
+[submodule "chromium-style"]
+	path = chromium-style
+	url = https://chromium.googlesource.com/infra/gerrit-plugins/chromium-style
+[submodule "chumpdetector"]
+	path = chumpdetector
+	url = https://chromium.googlesource.com/infra/gerrit-plugins/chumpdetector
+[submodule "git-numberer"]
+	path = git-numberer
+	url = https://chromium.googlesource.com/infra/gerrit-plugins/git-numberer
+[submodule "landingwidget"]
+	path = landingwidget
+	url = https://chromium.googlesource.com/infra/gerrit-plugins/landingwidget
+[submodule "tricium"]
+	path = tricium
+	url = https://chromium.googlesource.com/infra/gerrit-plugins/tricium
