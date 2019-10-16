@@ -154,3 +154,6 @@
 [submodule "tricium"]
 	path = tricium
 	url = https://chromium.googlesource.com/infra/gerrit-plugins/tricium
+[submodule "account"]
+	path = account
+	url = https://gerrit-review.googlesource.com/plugins/account
