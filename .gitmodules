@@ -31,9 +31,6 @@
 [submodule "groovy-provider"]
 	path = groovy-provider
 	url = https://gerrit-review.googlesource.com/plugins/scripting/groovy-provider
-[submodule "imagare"]
-	path = imagare
-	url = https://gerrit-review.googlesource.com/plugins/imagare
 [submodule "its-base"]
 	path = its-base
 	url = https://gerrit-review.googlesource.com/plugins/its-base
@@ -106,12 +103,6 @@
 [submodule "websession-flatfile"]
 	path = websession-flatfile
 	url = https://gerrit-review.googlesource.com/plugins/websession-flatfile
-[submodule "x-docs"]
-	path = x-docs
-	url = https://gerrit-review.googlesource.com/plugins/x-docs
-[submodule "zuul"]
-	path = zuul
-	url = https://gerrit-review.googlesource.com/plugins/zuul
 [submodule "checks"]
 	path = checks
 	url = https://gerrit-review.googlesource.com/plugins/checks
