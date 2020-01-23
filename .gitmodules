@@ -55,9 +55,6 @@
 [submodule "metrics-reporter-cloudwatch"]
 	path = metrics-reporter-cloudwatch
 	url = https://gerrit-review.googlesource.com/plugins/metrics-reporter-cloudwatch
-[submodule "metrics-reporter-elasticsearch"]
-	path = metrics-reporter-elasticsearch
-	url = https://gerrit-review.googlesource.com/plugins/metrics-reporter-elasticsearch
 [submodule "metrics-reporter-graphite"]
 	path = metrics-reporter-graphite
 	url = https://gerrit-review.googlesource.com/plugins/metrics-reporter-graphite
