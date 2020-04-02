@@ -145,3 +145,6 @@
 [submodule "account"]
 	path = account
 	url = https://gerrit-review.googlesource.com/plugins/account
+[submodule "zookeeper-refdb"]
+	path = zookeeper-refdb
+	url = https://gerrit-review.googlesource.com/plugins/zookeeper-refdb
