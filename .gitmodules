@@ -148,3 +148,6 @@
 [submodule "zookeeper-refdb"]
 	path = zookeeper-refdb
 	url = https://gerrit-review.googlesource.com/plugins/zookeeper-refdb
+[submodule "git-refs-filter"]
+	path = git-refs-filter
+	url = https://gerrit-review.googlesource.com/modules/git-refs-filter
