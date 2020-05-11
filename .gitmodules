@@ -151,3 +151,6 @@
 [submodule "git-refs-filter"]
 	path = git-refs-filter
 	url = https://gerrit-review.googlesource.com/modules/git-refs-filter
+[submodule "pull-replication"]
+	path = pull-replication
+	url = https://gerrit-review.googlesource.com/plugins/pull-replication
