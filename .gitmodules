@@ -154,3 +154,6 @@
 [submodule "pull-replication"]
 	path = pull-replication
 	url = https://gerrit-review.googlesource.com/plugins/pull-replication
+[submodule "code-owners"]
+	path = code-owners
+	url = https://gerrit-review.googlesource.com/plugins/code-owners
