@@ -157,3 +157,9 @@
 [submodule "code-owners"]
 	path = code-owners
 	url = https://gerrit-review.googlesource.com/plugins/code-owners
+[submodule "imagare"]
+	path = imagare
+	url = https://gerrit-review.googlesource.com/plugins/imagare
+[submodule "its-phabricator"]
+	path = its-phabricator
+	url = https://gerrit-review.googlesource.com/plugins/its-phabricator
