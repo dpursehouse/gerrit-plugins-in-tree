@@ -163,3 +163,6 @@
 [submodule "its-phabricator"]
 	path = its-phabricator
 	url = https://gerrit-review.googlesource.com/plugins/its-phabricator
+[submodule "zuul"]
+	path = zuul
+	url = https://gerrit-review.googlesource.com/plugins/zuul
