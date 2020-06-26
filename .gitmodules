@@ -166,3 +166,6 @@
 [submodule "zuul"]
 	path = zuul
 	url = https://gerrit-review.googlesource.com/plugins/zuul
+[submodule "lfs"]
+	path = lfs
+	url = https://gerrit-review.googlesource.com/plugins/lfs
